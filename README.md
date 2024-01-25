@@ -10,7 +10,7 @@ E-Commerce app is a design implementation of [E-commerce App]() designed by [Den
 
 Preview                    |   Home screen             |  Product Detail Screen    |  Cart Screen
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/DNXEMPIRE-1/flutter_ecommerce-store_app/screenshots/preview.gif?raw=true)|![](https://github.com/DNXEMPIRE-1/flutter_ecommerce-store_app/screenshots/home_screen.png?raw=true)|![](https://github.com/DNXEMPIRE-1/flutter_ecommerce-store_app/screenshots/detail_screen.png?raw=true)|![](https://github.com/DNXEMPIRE-1/flutter_ecommerce-store_app/screenshots/cart_screen.png?raw=true)
+![](screenshots/preview.gif?raw=true)|![](screenshots/home_screen.png?raw=true)|![](screenshots/detail_screen.png?raw=true)|![](screenshots/cart_screen.png?raw=true)
 
 <br/>
 
